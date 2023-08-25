@@ -18,7 +18,7 @@
 ## 📫 How to reach me:
 
 - Email: r.yeremin91@gmail.com
-- LinkedIn: [My LinkedIn Profile]([your_linkedin_link](https://www.linkedin.com/in/ruslan-yeremin-786785281/))
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/ruslan-yeremin-786785281/)
 - Portfolio: [My Portfolio Site](your_portfolio_link)
 
 ---
