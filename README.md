@@ -33,7 +33,7 @@ I specialize in building complex ERP systems and automating business processes. 
 Most of my work is under NDA in private repositories. Here is a breakdown of key solutions I've architected:
 
 #### 🏭 Enterprise ERP Transformation (Manufacturing)
-*Role: Lead Developer / Architect*
+*Role: Developer*
 * **Challenge:** Consolidate 3 disparate systems (1C, CRM, Legacy Accounting) into one.
 * **Solution:** Custom ERPNext implementation with tailored modules for Warehouse, Fleet, and QA.
 * **Key Tech:** Connected industrial hardware (IoT scales, barcode scanners) directly to the web app via Python drivers.
