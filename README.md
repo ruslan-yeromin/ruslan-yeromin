@@ -1,5 +1,5 @@
 ### Hi there, I'm Ruslan 👋
-**Senior Full Stack Developer | ERPNext & Frappe Expert | Business Automation**
+**Full Stack Developer | ERPNext & Frappe Expert | Business Automation**
 
 I specialize in building complex ERP systems and automating business processes. With 10+ years of experience in e-commerce and manufacturing sectors, I bridge the gap between business needs and technical implementation.
 
