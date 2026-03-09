@@ -1,10 +1,3 @@
-### Hi there, I'm Ruslan 👋
-**Full Stack Developer | ERPNext & Frappe Expert | Business Automation**
-
-I specialize in building complex ERP systems and automating business processes. With 10+ years of experience in e-commerce and manufacturing sectors, I bridge the gap between business needs and technical implementation.
-
----
-
 ### 🛠 Tech Stack
 
 **Backend & ERP:**
@@ -32,18 +25,12 @@ I specialize in building complex ERP systems and automating business processes. 
 
 Most of my work is under NDA in private repositories. Here is a breakdown of key solutions I've architected:
 
-#### 🏭 Enterprise ERP Transformation (Manufacturing)
-*Role: Developer*
-* **Challenge:** Consolidate 3 disparate systems (1C, CRM, Legacy Accounting) into one.
-* **Solution:** Custom ERPNext implementation with tailored modules for Warehouse, Fleet, and QA.
-* **Key Tech:** Connected industrial hardware (IoT scales, barcode scanners) directly to the web app via Python drivers.
-
 #### 📈 Fintech Trading Infrastructure
 *Role: Backend Developer*
 * Developed high-frequency trading clients for **CEX.io** and **Binance** using their REST APIs.
 * Implemented secure algorithmic strategies and real-time data parsing.
 
-#### 🛒 E-commerce Ecosystem (Family Business)
+#### 🛒 E-commerce Ecosystem
 *Role: CTO / Lead Developer*
 * Scaled a niche retail platform from a basic CMS to a custom high-load architecture.
 * Automated competitor price analysis and inventory syncing using Python scripts.
